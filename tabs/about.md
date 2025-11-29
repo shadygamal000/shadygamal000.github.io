@@ -1,7 +1,7 @@
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
 **Hello There :) .
-In few words. I'm \`Shadi Gamal\`, A highly skilled Web application Security Tester with extensive expertise in Web/Mobile application and penetration testing. I have over 5 years of experience in penetration testing. I'm passionate about Penetration Testing and trying to improve my skills day by day. I'm currently located in Cairo, Egypt.**
+In few words. I'm ```Shadi Gamal```., A highly skilled Web application Security Tester with extensive expertise in Web/Mobile application and penetration testing. I have over 5 years of experience in penetration testing. I'm passionate about Penetration Testing and trying to improve my skills day by day. I'm currently located in Cairo, Egypt.**
 
 ***Scroll down to figure out some of my achievements that I've done in my humble journey as a passionate penetration tester***
 
