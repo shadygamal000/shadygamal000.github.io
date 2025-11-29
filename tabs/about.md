@@ -1,71 +1,61 @@
 > **Who Am I?**
 
-**Hello There :) .  
-In few words. I'm  `Rawi AlJuraifani`, A university student currently a Junior Student in Imam Abdulrahman Bin Faisal University (IAU) , majored in Computer Science , currently working as a bug hunter in my free-time and i had some penetration testing engagements with different companies and businesses. i'm passionate about Penetration Testing and trying to improve my skills day by day.**
+**Hello There :) .
+In few words. [cite_start]I'm \`Shadi\`, A highly skilled Web application Security Tester with extensive expertise in Web/Mobile application and penetration testing[cite: 1, 30]. [cite_start]I have over 5 years of experience in penetration testing[cite: 31]. I'm passionate about Penetration Testing and trying to improve my skills day by day. [cite_start]I'm currently located in Cairo, Egypt[cite: 6].**
 
 ***Scroll down to figure out some of my achievements that I've done in my humble journey as a passionate penetration tester***
 
 > **COURSES & CERTIFICATIONS:**
 
- - **Junior Penetration Testing Student ( eJPT )**
-
-eLearnSecurity
-
-- **Web Application Penetration Testing eXtreme( eWPTXv2 )**
-
-eLearnSecurity
-
+- **Web Application Penetration Tester eXtreme (eWPTX)**
+INE Security [cite: 78]
+- **Mobile Application Penetration Tester (eMAPT)**
+INE Security [cite: 81]
+- **Certified Penetration Testing Specialist (CPTS) (in progress)**
+HTB [cite: 81]
 
 ### **Achivements**
 
-> **CVEs:**
-
-- [CVE-2021-42183](https://nvd.nist.gov/vuln/detail/CVE-2021-42183)
-
-MasaCMS 7.2.1 is affected by a path traversal vulnerability in /index.cfm/_api/asset/image/.
-
-- [CVE-2022-29704](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-29704)
-
-BrowsBox CMS v4.0 was discovered to contain a SQL injection vulnerability via path fragament
-
-- [CVE-2022-1825](https://nvd.nist.gov/vuln/detail/CVE-2022-1825)
-
-- [CVE-2022-1806](https://nvd.nist.gov/vuln/detail/CVE-2022-1806)
-
-
 > **Bug Hunting:**
 
+i discovered multiple bugs and got acknowledged by major companies[cite: 31]:
 
-i discovered multiple bugs and got acknowledged by major companies :
+- **Apple** [cite: 87]
+- **AT&T** [cite: 90]
+- **DOD** (Department of Defense) [cite: 92]
+- **Microsoft** [cite: 96]
+- **PayPal** [cite: 98]
+- **RedBull** [cite: 101]
+- **Yahoo** [cite: 87]
+- **IBM** [cite: 87]
+- **Intel** [cite: 89]
+- **CPanel** [cite: 91]
+- **McAfee** [cite: 94]
+- **SoundCloud** [cite: 97]
+- **Twitter** [cite: 99]
+- **TrendMicro** [cite: 98]
+- **Cambridge University** [cite: 88]
+- *...and many more, detailed on my LinkedIn profile.* [cite: 31]
 
- - **Apple**
- - **AT&T**
- - **Sony**
- - **Deperatement Of Defense (USA)**
- - **RedBull**
- - **MariaDB**
- - **EPAM Systems**
- - **John Deere**
+> **Achievements & Recognitions**
 
-> **Competitions**
-- **First Place ( 1st ) in Gulf CTF with my team ( Potato )- 2023**
+- **Top 70 All-Time researcher** on Intigriti for the submission of High-Exceptional Bugs[cite: 36].
+- **#1 Global Rank** on Intigriti for August, demonstrating consistent excellence and peak performance in vulnerability disclosure[cite: 36].
+- Recognized in **more than 30 Hall of Fames**[cite: 31].
+- Successfully contributed to the security of Fortune companies and startups[cite: 46].
 
-- **Most Critical Bug Submitted in BugBounty Cup Competition in Riyadh, BlackHat Middle East - 2022**
+> **Work Experience & Roles**
 
-- **First Place ( 1st ) In intigriti leaderboard for the Second Quarter (worldwide) - 2022**
-
-- **First Place ( 1st ) in Saudi Aramco Cyber Security Chair  with my team ( Potato ) - 2021**
-
-Saudi Aramco Cyber Security Chair CTF was to all cyber security students and recent graduates in Saudi Arabia where 170 teams have participated from 41 different universities with a total of 807 competitors
-
-- **Third Place in Prince Mohammed Bin Fahad CTF with my team ( Potato )**
-
-- **Fourth Place In Cyberhub 2019 (Individually)**
+- **Bug Hunter** at **HackerOne** (Dec 2017 - Present) [cite: 43, 44]
+- **Bug Hunter** at **Intigriti** (Dec 2024 - Present) [cite: 48, 50]
+- **Bug Hunter** at **Bugcrowd** (Apr 2019 - Present) [cite: 53, 54]
+- **Security Researcher** at **NuaSecurity** (Sep 2025 - Invalid Date) [cite: 73, 75]
+- **No-Code Automation Specialist/Product Manager** (Built a modern automation workflow using Streamlit, n8n, AI, and Django REST API) [cite: 68, 69, 70]
 
 > **Accounts**:
 
-Twitter : [@0xRaw](https://twitter.com/0xraw)
-
-Linkedin : [Rawi AlJuraifani](https://www.linkedin.com/in/rawi-aljuraifani/)
-
-Github: [0xRaw](https://github.com/0xRaw)
+[cite_start]LinkedIn: [Shadi Elbarnshawy](https://www.linkedin.com/in/5hady) [cite: 23, 24]
+[cite_start]Intigriti: [shady.g](https://app.intigriti.com/researcher/profile/shady.g) [cite: 25, 26]
+[cite_start]HackerOne: [5hady](https://hackerone.com/5hady) [cite: 27, 28]
+[cite_start]GitHub: [shadygamalo00](https://github.com/shadygamal000) [cite: 59, 60]
+[cite_start]X (Twitter): [5hady](https://x.com/5hady_) [cite: 57, 58]
