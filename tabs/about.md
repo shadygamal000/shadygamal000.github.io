@@ -1,7 +1,7 @@
 > **Who Am I?**
 
 **Hello There :) .
-In few words. I'm \`Shadi \`, A highly skilled Web application Security Tester with extensive expertise in Web/Mobile application and penetration testing. I have over 5 years of experience in penetration testing. I'm passionate about Penetration Testing and trying to improve my skills day by day. I'm currently located in Cairo, Egypt.**
+In few words. I'm \`Shadi Gamal\`, A highly skilled Web application Security Tester with extensive expertise in Web/Mobile application and penetration testing. I have over 5 years of experience in penetration testing. I'm passionate about Penetration Testing and trying to improve my skills day by day. I'm currently located in Cairo, Egypt.**
 
 ***Scroll down to figure out some of my achievements that I've done in my humble journey as a passionate penetration tester***
 
@@ -54,8 +54,8 @@ i discovered multiple bugs and got acknowledged by major companies:
 
 > **Accounts**:
 
-LinkedIn: [Shadi Elbarnshawy](https://www.linkedin.com/in/5hady)
-Intigriti: [shady.g](https://app.intigriti.com/researcher/profile/shady.g)
-HackerOne: [5hady](https://hackerone.com/5hady)
+LinkedIn: [Shadi Gamal](https://www.linkedin.com/in/5hady)
+Intigriti: [shady.g](https://app.intigriti.com/researcher/profile/shadyg)
+HackerOne: [5hady](https://hackerone.com/5hady_)
 GitHub: [shadygamalo00](https://github.com/shadygamal000)
 X (Twitter): [5hady](https://x.com/5hady_)
