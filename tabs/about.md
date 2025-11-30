@@ -46,15 +46,15 @@ i discovered multiple bugs and got acknowledged by major companies:
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Work Experience & Roles</p></b></body></html>
 
+- **Security Researcher** at **NuaSecurity** (Sep 2025 - Present)
 - **Bug Hunter** at **HackerOne** (Dec 2017 - Present)
 - **Bug Hunter** at **Intigriti** (Dec 2024 - Present)
 - **Bug Hunter** at **Bugcrowd** (Apr 2019 - Present)
-- **Security Researcher** at **NuaSecurity** (Sep 2025 - Invalid Date)
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Accounts</p></b></body></html>
 
 LinkedIn: [Shadi Gamal](https://www.linkedin.com/in/5hady)
-Intigriti: [shady.g](https://app.intigriti.com/researcher/profile/shadyg)
-HackerOne: [5hady](https://hackerone.com/5hady_)
-GitHub: [shadygamalo00](https://github.com/shadygamal000)
+Intigriti: [shadyg](https://app.intigriti.com/researcher/profile/shadyg)
+HackerOne: [5hady_](https://hackerone.com/5hady_)
+GitHub: [shadygamal000](https://github.com/shadygamal000)
 X (Twitter): [5hady](https://x.com/5hady_)
